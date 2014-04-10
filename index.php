@@ -1,5 +1,9 @@
 <?php include("header.php") ?>
 
+
+<p>Be part of something bigger than yourself. Ready to jump in?</p>
+<p><a href="voter.php" class="btn btn-primary btn-lg" role="button">Start Voting</a></p>
+
 This is the site's front page<br />
 
 <ul>
