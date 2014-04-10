@@ -12,6 +12,7 @@ This is the site's front page<br />
     <li>Link to the vote <a href="voter.php">flow</a></li>
     <li>Link to the content <a href="contentIntegration.php">source</a></li>
     <li>Link to <a href="register.php">register</a></li>
+    <li>Get all your UI elements from <a target="_blank" href="http://getbootstrap.com/examples/theme/">http://getbootstrap.com/examples/theme/</a>
 </ul>
 
 <?php include("footer.php") ?>
