@@ -1,6 +1,11 @@
 <?php include("header.php") ?>
 
 
+<div id="alert" class="alert alert-info">
+    <strong>Heads up!</strong> This alert needs your attention, but it's not super important.
+</div>
+
+
 <p>Be part of something bigger than yourself. Ready to jump in?</p>
 <p><a href="voter.php" class="btn btn-primary btn-lg" role="button">Start Voting</a></p>
 
